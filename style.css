@@ -1,0 +1,255 @@
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.center {
+    text-align: center;
+}
+
+.card1{
+    text-align: left;
+    margin-top: 70px;
+    border-radius: 15px;
+    padding: 15px 15px;
+    margin: 20px auto;
+    width: 50%;
+    border: 1px solid lightgray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.img1{
+    width: 100%;
+    border-radius: 6%;
+}
+.status{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #636660;
+    color: #E1D9D1;
+    border-radius: 2px;
+    margin-left: 19px;
+    font-size: 11px;
+    padding: 1px 6px;
+
+
+}
+.discount{
+    position: absolute;
+    background-color: #6790E2;
+    color: white;
+    bottom: 0;
+    left: 0;
+    margin-bottom: 20px;
+    padding: 0px 6px;
+ 
+}
+
+.inTime{
+    position: absolute;
+    background-color: beige;
+    color: black;
+    border-radius: 5px;
+    bottom: 0;
+    right: 0;
+    padding: 0px 7px;
+    margin-right: 12px;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.rel{
+    position: relative;
+}
+
+.abs{
+    position: absolute;
+}
+
+.rest{
+    margin: 10px 0px;
+    font-weight: 500;
+    font-size: 21px;
+}
+
+.dish{
+    color: dimgray;
+    /* border-bottom: blue; */
+    border-bottom: 1px solid lightgray;
+    margin: 0px;
+    padding: 0px 0px 33px 0px;
+}
+.delivery{
+    width: 10%;
+    height: 28px;
+    margin-top: 17px;
+  
+}
+
+.safety{
+    color: dimgray;
+    margin-top: 10px;
+    width: 85%;
+    font-size: 15px;
+    margin-left: 13px;
+}
+
+.bg{
+    position: relative;
+    width: 670px;
+    margin: 30px auto;
+}
+
+.bg-img{
+    width: 100%;
+    border-radius: 3%;
+}
+.bg-content{
+    position: absolute;
+    left: 40px;
+    bottom: 80px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn{
+    background-color: #fff;
+    border: none;
+    padding: 14px 30px;
+    border-radius: 25px;
+    font-size: 15px;
+    border: none;
+    width: 25%;
+}
+
+.btn-align{
+    display: flex;
+    justify-content: center;
+}
+.fic{
+    display: flex;
+}
+
+.clone{
+    position: relative;
+    width: 651px;
+    margin: 30px auto;
+}
+
+.bg-zom{
+    width: 660px;
+    height: 234px;
+
+}
+
+.logo{
+    position: absolute;
+    top: 72px;
+    left: 242px;
+    /* font-size: 20px; */
+    width: 150px;
+
+}
+.logo-1{
+    position: absolute;
+    top: 95px;
+    left: 135px;
+
+}
+
+.para-1{
+    font-size: 20px;
+    color: white;
+}
+
+.card2{
+    position: absolute;
+    top: 130px;
+    left: 120px;
+    border-radius: 7px;
+    padding: 9px 9px;
+    margin: 20px auto;
+    /* width: 42%; */
+    border: 1px solid lightgray;
+    width: 425px;
+    background-color: white;
+}
+.loc{
+    margin: -2px;
+    width: 3%;
+
+}
+.loc-text{
+    font-size: 13px;
+    color: lightslategrey;
+    margin: 0px 48px 0px 7px;
+}
+
+
+.down{
+    width: 3%;
+}
+.vl{
+    width: 3%;
+}
+.search{
+    width: 4%;
+    margin: -3px;
+}
+
+.cuisine{
+    color: lightslategrey;
+    font-size: 13px;
+    padding: 6px;
+}
+
+.picture{
+    position: relative;
+    width: 450px;
+    margin: 30px auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border: 2px solid lightgray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 460px;
+}
+.picture-out{
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+   
+   
+
+}
+
+.customer{
+    position: absolute;
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    left: 135px;
+    bottom: 274px;
+    margin-bottom: -40px;
+    border: 4px solid white;
+}
+
+.User{
+    font-size: 38px;
+    margin-top: 130px;
+    margin-bottom: 0px;
+}
+.designation{
+    font-size: 28px;
+    color: dimgray;
+    margin-top: 15px;
+}
+
+.align-profile{
+    margin-top: 105px;
+}
